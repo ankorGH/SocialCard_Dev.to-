@@ -6,10 +6,6 @@ import CardSave from "./card/card_save";
 import CardSocial from "./card/card_social";
 import CardHandle from "./card/card_handle";
 
-const style = {
-  baclgroundColor: "green"
-};
-
 const Card = props => {
   return (
     <div>
